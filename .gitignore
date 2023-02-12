@@ -1,0 +1,7 @@
+.idea
+simple-rpg/
+*.zip
+target/
+Lab2/ThreadsExample
+Lab6/original/*
+Lab6/processed/*
